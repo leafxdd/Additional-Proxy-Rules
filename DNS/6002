@@ -1,0 +1,6 @@
+payload:
+  - GEOSITE,gfw
+  - GEOSITE,google-cn
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,mindows.cn
