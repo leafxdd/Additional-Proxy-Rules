@@ -1,4 +1,23 @@
 payload:
+  - DOMAIN,fnode.top
+  - DOMAIN,atianqi.com
+  - DOMAIN,20040313.xyz
+  - DOMAIN,202020203.xyz
+  - DOMAIN,63416887.xyz
+  - DOMAIN,ooklaserver.net
+  - DOMAIN,synology.com
+  - DOMAIN,520705.xyz
+  - DOMAIN,softbank.best
+  - DOMAIN,52pojie.cn
+  - DOMAIN,pcbeta.com
+  - DOMAIN,hf-mirror.com
+  - DOMAIN,ubuntu.com
+  - DOMAIN,atianqi.com
+  - DOMAIN,time.is
+  - DOMAIN,speedtest.net
+  - DOMAIN,ac.cn
+  - DOMAIN,aliyun.com
+  - DOMAIN,ntp.org
   - DOMAIN-SUFFIX,pcbeta.com
   - DOMAIN-SUFFIX,52pojie.cn
   - DOMAIN-SUFFIX,hf-mirror.com
@@ -15,6 +34,9 @@ payload:
   - DOMAIN-KEYWORD,todesk
   - IP-CIDR,103.106.188.37/32
   - IP-CIDR,38.150.6.168/32
-  - DOMAIN-SUFFIX,20040313.xyz
-  - DOMAIN-SUFFIX,202020203.xyz
-  - DOMAIN-SUFFIX,63416887.xyz
+  - GEOSITE,cn
+  - GEOSITE,category-games@cn
+  - GEOSITE,geolocation-cn
+  - GEOSITE,tld-cn
+  - GEOSITE,category-ntp
+  - GEOSITE,tencent
