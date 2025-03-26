@@ -1,0 +1,20 @@
+payload:
+  - DOMAIN-SUFFIX,pcbeta.com
+  - DOMAIN-SUFFIX,52pojie.cn
+  - DOMAIN-SUFFIX,hf-mirror.com
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,atianqi.com
+  - DOMAIN-SUFFIX,time.is
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ac.cn
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-KEYWORD,wanmei
+  - DOMAIN-KEYWORD,5eplay
+  - DOMAIN-KEYWORD,todesk
+  - IP-CIDR,103.106.188.37/32
+  - IP-CIDR,38.150.6.168/32
+  - DOMAIN-SUFFIX,20040313.xyz
+  - DOMAIN-SUFFIX,202020203.xyz
+  - DOMAIN-SUFFIX,63416887.xyz
