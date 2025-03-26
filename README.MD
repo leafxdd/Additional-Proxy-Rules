@@ -1,0 +1,1 @@
+似乎Openclash只能同时存在一个inline类型的rule-set, 故开一个github仓库添加自用分流规则
