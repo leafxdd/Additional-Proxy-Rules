@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,time.is
-  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ac.cn
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,ntp.org
@@ -24,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,time.is
-  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ac.cn
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,aliyun.com
