@@ -38,3 +38,4 @@ payload:
   - GEOSITE,tld-cn
   - GEOSITE,category-ntp
   - GEOSITE,tencent
+  - GEOSITE,synology
