@@ -34,9 +34,9 @@ payload:
   - DOMAIN-KEYWORD,quickconnect
   - IP-CIDR,103.106.188.37/32
   - IP-CIDR,38.150.6.168/32
-  - GEOIP,cn
   - GEOSITE,cn
   - GEOSITE,category-games@cn
   - GEOSITE,geolocation-cn
   - GEOSITE,tld-cn
   - GEOSITE,category-ntp
+  - GEOIP,cn
