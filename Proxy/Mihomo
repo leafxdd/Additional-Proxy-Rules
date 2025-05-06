@@ -32,8 +32,6 @@ payload:
   - DOMAIN-KEYWORD,wanmei
   - DOMAIN-KEYWORD,5eplay
   - DOMAIN-KEYWORD,quickconnect
-  - IP-CIDR,103.106.188.37/32
-  - IP-CIDR,38.150.6.168/32
   - GEOSITE,cn
   - GEOSITE,category-games@cn
   - GEOSITE,geolocation-cn
