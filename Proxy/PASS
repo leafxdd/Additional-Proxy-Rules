@@ -4,4 +4,3 @@ payload:
   - DOMAIN-SUFFIX,mindows.cn
   - DOMAIN-KEYWORD,pikpak
   - GEOSITE,gfw
-  - GEOSITE,google-cn
