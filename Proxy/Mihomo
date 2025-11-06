@@ -1,24 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,xn--74qq5yyui0ob.com
-  - DOMAIN-SUFFIX,friends34369.xyz
-  - DOMAIN-SUFFIX,softbank.best
-  - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,20040313.xyz
   - DOMAIN-SUFFIX,202020203.xyz
   - DOMAIN-SUFFIX,63416887.xyz
-  - DOMAIN-SUFFIX,ooklaserver.net
-  - DOMAIN-SUFFIX,synology.com
-  - DOMAIN-SUFFIX,52pojie.cn
-  - DOMAIN-SUFFIX,pcbeta.com
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,time.is
-  - DOMAIN-SUFFIX,ac.cn
-  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,ntp.org
-  - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,gofile.me
-  - DOMAIN-SUFFIX,synology.me
-  - DOMAIN-KEYWORD,wanmei
-  - DOMAIN-KEYWORD,5eplay
-  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-KEYWORD,foo
