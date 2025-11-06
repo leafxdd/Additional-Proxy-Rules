@@ -7,4 +7,3 @@ payload:
   - DOMAIN-SUFFIX,time.is
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,gofile.me
-  - DOMAIN-KEYWORD,foo
