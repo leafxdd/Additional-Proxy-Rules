@@ -8,4 +8,3 @@ payload:
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,gofile.me
   - DOMAIN-KEYWORD,foo
-  - DOMAIN-KEYWORD,fnf
