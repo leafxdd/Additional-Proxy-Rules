@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,kms.20040313.xyz
   - DOMAIN,hkfile.20040313.xyz
   - DOMAIN,img.20040313.xyz
   - DOMAIN-SUFFIX,63416887.xyz
