@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,20040313.xyz
-  - DOMAIN-SUFFIX,202020203.xyz
+  - DOMAIN,hkfile.20040313.xyz
+  - DOMAIN,img.20040313.xyz
   - DOMAIN-SUFFIX,63416887.xyz
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN-SUFFIX,ubuntu.com
