@@ -1,6 +1,17 @@
 payload:
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,mindows.cn
-  - DOMAIN-KEYWORD,pikpak
-  - GEOSITE,gfw
+    - '+.visa.cn'
+    - '+.gov.ua'
+    - '+.shopify.com'
+    - '+.ubi.com'
+    - '+.nexusmods.com'
+    - '+.sin.fan'
+    - '+.182682.xyz'
+    - '+.090227.xyz'
+    - '+.172mix.com'
+    - '+.zerotier.com'
+    - '+.20040313.xyz'
+    - '+.63416887.xyz'
+    - '+.hf-mirror.com'
+    - '+.sin.fan'
+    - '+.sin.fan'
+    - time.is
